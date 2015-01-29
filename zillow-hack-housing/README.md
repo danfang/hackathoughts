@@ -5,5 +5,7 @@
 
 ### Idea 1:
 Name: [Interactive Housing Search](interactive/README.md)
+
 Team: [Daniel Fang](https://github.com/danfang), [Justin Harjanto](https://github.com/gestone)
+
 Status: Open to join
