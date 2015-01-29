@@ -1,4 +1,4 @@
 # hackathoughts
-An accumulation of ideas for upcoming hackathons. Specifications, inspiration, collaborative idea building.
+An accumulation of ideas for upcoming hackathons. Specifications, inspiration, and collaborative idea building.
 
-Place to host ideas, pseudocode, form teams.
+Let this be a place to host ideas, write up pseudocode and form teams.
